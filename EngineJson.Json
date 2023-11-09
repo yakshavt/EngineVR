@@ -1,6 +1,4 @@
 {
-    "Response": {
-        "name": "VR",
-        "Status": true
-    }
+    "name": "EngineVR",
+    "Status": false
 }
